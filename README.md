@@ -1,1 +1,1 @@
-# golang-jwt-project
+# golang-jwt-authentication-project
